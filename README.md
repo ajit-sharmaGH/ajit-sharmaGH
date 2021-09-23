@@ -9,6 +9,8 @@
 - 😄 Pronouns  : He/Him
 - ⚡ Fun fact  : I like singing
 
+
+
  ***Find me around Globe*** 🌍
 - [Twitter](https://twitter.com/its_AjitSharma)
 - [Instagram](https://instagram.com/its.ajit.sharma)
@@ -20,3 +22,6 @@
  
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajit-sharmaGH&layout=compact&theme=radical)](https://github.com/ajit-sharmaGH/github-readme-stats)
+ 
+ ![](https://komarev.com/ghpvc/?username=ajit-sharamGH&color=orange&show_icons=true&theme=radical)
+
