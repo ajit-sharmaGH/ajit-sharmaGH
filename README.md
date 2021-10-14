@@ -7,7 +7,7 @@
 - 💬 Ask me about Frontend Technologies
 - 📫 How to reach me : [Twitter-@its_AjitSharma](https://twitter.com/its_AjitSharma)
 - 😄 Pronouns  : He/Him
-- ⚡ Fun fact  : doesn't exist
+
 
 
 
