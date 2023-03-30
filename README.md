@@ -8,7 +8,7 @@
 - 📫 How to reach me : [Twitter-@its_AjitSharma](https://twitter.com/its_AjitSharma)
 - 😄 Pronouns  : He/Him
 
-   ***Find me around Globe*** 🌍
+***Find me around Globe*** 🌍
 - [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/its_AjitSharma)
 - [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/its.ajit.sharma)
 - [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsajitsharma)
