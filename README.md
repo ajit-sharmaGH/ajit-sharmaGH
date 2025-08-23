@@ -43,7 +43,7 @@
 - 👯 I’m looking to collaborate on Frontend Projects
 - 🤔 I’m looking for help with APIs and Backend
 - 💬 Ask me about Frontend Technologies
-- 📫 How to reach me : [Twitter-@its_AjitSharma](https://twitter.com/its_AjitSharma)
+- 📫 How to reach me :  Email at - techteam4044@email.com
 - 😄 Pronouns  : He/Him
 
 ###
