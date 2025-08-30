@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
-  <a href="https://twitter.com/its_AjitSharma">
+  <a href="https://twitter.com/#">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
@@ -25,9 +25,9 @@
 </div>
 
 <h2 align="center">
-  hey there
+  hey there,
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
- I am Ajit Sharma
+ I am AJIT-SHARMA
 </h2>
 
 <div align="center">
@@ -38,7 +38,7 @@
 
 ###  ABOUT ME 🖥
 
-- 🔭 I’m currently working on my MERN Stack
+- 🔭 I’m currently working on my MERN Stack skills ( mostly focused on UI/UX )
 - 🌱 I’m currently learning Java Programming and Backend 
 - 👯 I’m looking to collaborate on Frontend Projects
 - 🤔 I’m looking for help with APIs and Backend
@@ -59,6 +59,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" 
+     title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 
